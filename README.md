@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **JavaScript Python PHP HTML / CSS / SQL Git, GitHub, GitLab Relational Databases Agile Methodology Jira Software**
 
-- 📫 How to reach me: **nico.agc@gmail.com**
+- 📫 How to reach me: **nico.agc@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
